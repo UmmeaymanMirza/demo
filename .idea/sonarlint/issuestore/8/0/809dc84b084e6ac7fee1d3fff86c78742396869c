@@ -1,0 +1,18 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(…ÇÛ×8¨§ØŠØ1
+X	java:S125
+"<This block of commented-out lines of code should be removed.(”ÁÅö8¨§ØŠØ1
+e
+java:S5361:"HReplace this call to "replaceAll()" by a call to the "replace()" method.(¿œÆç8æ§ØŠØ1
+e
+java:S53619"HReplace this call to "replaceAll()" by a call to the "replace()" method.(²•¶ğ8ê§ØŠØ1
+e
+java:S53619"HReplace this call to "replaceAll()" by a call to the "replace()" method.(²•¶ğ8ë§ØŠØ1
+L	java:S106B"+Replace this use of System.out by a logger.(×¬Íœúÿÿÿÿ8ğ§ØŠØ1
+G	java:S106G"+Replace this use of System.out by a logger.(ÒÕˆà8ñ§ØŠØ1
+S
+java:S1128"1Remove this unused import 'java.util.ArrayDeque'.(†®ŞÖúÿÿÿÿ8Ù™ÚŠØ1
+N
+java:S1128",Remove this unused import 'java.util.Deque'.(³Ã¯¥şÿÿÿÿ8Ù™ÚŠØ1
+M
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18Ù™ÚŠØ1

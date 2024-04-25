@@ -1,0 +1,13 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(™Î‡İ8ØÄÍ˜Ü1
+L	java:S106
+"+Replace this use of System.out by a logger.(†µêÁùÿÿÿÿ8ÙÄÍ˜Ü1
+]	java:S125"<This block of commented-out lines of code should be removed.(‘„¹Ìùÿÿÿÿ8¡´Å•Ü1
+s
+java:S2177:"WRename this method; there is a "private" method in the parent class with the same name.(¥¹¤>8€ƒĞ˜Ü1
+L	java:S106;"+Replace this use of System.out by a logger.(•äıÿÿÿÿ8ùÛÏ˜Ü1
+\
+java:S1161>":Add the "@Override" annotation above this method signature(›Š½ñüÿÿÿÿ8ƒĞ˜Ü1
+L	java:S106?"+Replace this use of System.out by a logger.(Ğ‰ğŞûÿÿÿÿ8úÛÏ˜Ü1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8‚ƒĞ˜Ü1

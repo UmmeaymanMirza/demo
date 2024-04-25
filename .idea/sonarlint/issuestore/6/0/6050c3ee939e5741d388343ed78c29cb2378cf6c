@@ -1,0 +1,8 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(—²”¾øÿÿÿÿ8ÓºÕ˜Ü1
+L
+java:S1197
+"*Move the array designators [] to the type.(¡þÏÖøÿÿÿÿ8ÖºÕ˜Ü1
+‚
+java:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(ÆŽ‚¶úÿÿÿÿ8ÙºÕ˜Ü1
+G	java:S106"+Replace this use of System.out by a logger.(ü›ÝÖ8ÚºÕ˜Ü1
